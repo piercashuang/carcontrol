@@ -1,0 +1,7 @@
+{
+    "files": [
+        "assets.qrc",
+        "main.py",
+        "main.qml"
+    ]
+}

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file alias="car">C:/Users/yinhao.zhan/Pictures/caricons/Icons/car.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>Page1.qml</file>
+        <file>Page2.qml</file>
+        <file>Page3.qml</file>
+        <file>Page4.qml</file>
+        <file>IconButton.qml</file>
+        <file>TypeButton.qml</file>
+        <file>slider.qml</file>
+    </qresource>
+</RCC>
