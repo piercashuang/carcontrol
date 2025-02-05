@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-1" value="QGraphicsItem" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="580" y="240" width="160" height="216" as="geometry">
+          <mxGeometry x="239" y="1120" width="160" height="216" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -125,16 +125,16 @@
         <mxCell id="_B7cCc1OKouUAi9LiKXg-3" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="_B7cCc1OKouUAi9LiKXg-1" vertex="1">
           <mxGeometry y="52" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="_B7cCc1OKouUAi9LiKXg-4" value="- 提供可重写的Qt事件处理方法（如mousePressEvent, mouseMoveEvent, mouseReleaseEvent等）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-1" vertex="1">
+        <mxCell id="_B7cCc1OKouUAi9LiKXg-4" value="- 提供可重写的Qt事件处理方法（如QPainterPath shape() const override等）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-1" vertex="1">
           <mxGeometry y="60" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-5" value="+ 提供接口获取item数据" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-1" vertex="1">
           <mxGeometry y="140" width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="_B7cCc1OKouUAi9LiKXg-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_B7cCc1OKouUAi9LiKXg-28" target="_B7cCc1OKouUAi9LiKXg-4" edge="1">
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_B7cCc1OKouUAi9LiKXg-28" target="_B7cCc1OKouUAi9LiKXg-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_B7cCc1OKouUAi9LiKXg-28" value="Arrow" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_B7cCc1OKouUAi9LiKXg-28" value="ZhBlockLink" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="226" y="270" width="186" height="794" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -178,7 +178,7 @@
         <mxCell id="_B7cCc1OKouUAi9LiKXg-41" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
           <mxGeometry y="436" width="186" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="_B7cCc1OKouUAi9LiKXg-42" value="+ Arrow(DiagramItem *startItem, DiagramItem *endItem, QGraphicsItem *parent = nullptr)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
+        <mxCell id="_B7cCc1OKouUAi9LiKXg-42" value="- boundingRect,paint,shape,mousePressEvent,mouseMoveEvent,mouseReleaseEvent,hoverMoveEvent" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
           <mxGeometry y="444" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-43" value="- int type() const" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
@@ -611,8 +611,11 @@
         <mxCell id="MDw0kAirAG_HnYE3-cBt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MDw0kAirAG_HnYE3-cBt-21" target="NFf6Az_FwW0uLxMFkGdc-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MDw0kAirAG_HnYE3-cBt-49" target="MDw0kAirAG_HnYE3-cBt-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MDw0kAirAG_HnYE3-cBt-49" value="BaseEditDialog" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="-624" width="190" height="794" as="geometry">
+          <mxGeometry x="530" y="-640" width="190" height="794" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -698,6 +701,190 @@
         </mxCell>
         <mxCell id="MDw0kAirAG_HnYE3-cBt-76" value="+ 提供接口获取item数据" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-72">
           <mxGeometry y="140" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MDw0kAirAG_HnYE3-cBt-80" target="MDw0kAirAG_HnYE3-cBt-132">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="-724" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-80" value="ZhFunBase" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="-640" width="190" height="794" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-81" value="myDiagramType（枚举类型DiagramType）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="26" width="190" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-82" value="myPolygon（QPolygonF）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="70" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-83" value="myContextMenu（QMenu*）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="96" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-84" value="arrows（QList&lt;Arrow*&gt;）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="130" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-85" value="resizeHandlePointWidth（静态常量，qreal）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="164" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-86" value="closeEnoughDistance（静态常量，qreal）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="198" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-87" value="resizeMode（布尔类型）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="232" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-88" value="scaleDirection（枚举类型Direction）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="266" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-89" value="movingStartPosition（QPointF）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="300" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-90" value="isMoved（布尔类型）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="334" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-91" value="previousPolygon（QPolygonF）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="368" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-92" value="isResized（布尔类型）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="402" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-93" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="436" width="190" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-94" value="+ DiagramItem(DiagramType diagramType, QMenu *contextMenu, QGraphicsItem *parent = nullptr)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="444" width="190" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-95" value="+ removeArrow(Arrow *arrow)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="510" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-96" value="+ removeArrows()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="544" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-97" value="- addArrow(Arrow *arrow)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="578" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-98" value="- image()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="612" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-99" value="- isCloseEnough(QPointF const&amp; p1, QPointF const&amp; p2)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="646" width="190" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-100" value="- 重写的Qt事件处理方法（如mousePressEvent, mouseMoveEvent, mouseReleaseEvent等）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="690" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-101" value="+ clone()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry y="760" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MDw0kAirAG_HnYE3-cBt-59" target="MDw0kAirAG_HnYE3-cBt-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MDw0kAirAG_HnYE3-cBt-103" target="MDw0kAirAG_HnYE3-cBt-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-103" value="ZhImageWindow" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1146" y="-640" width="190" height="794" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-104" value="myDiagramType（枚举类型DiagramType）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="26" width="190" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-105" value="myPolygon（QPolygonF）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="70" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-106" value="myContextMenu（QMenu*）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="96" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-107" value="arrows（QList&lt;Arrow*&gt;）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="130" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-108" value="resizeHandlePointWidth（静态常量，qreal）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="164" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-109" value="closeEnoughDistance（静态常量，qreal）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="198" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-110" value="resizeMode（布尔类型）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="232" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-111" value="scaleDirection（枚举类型Direction）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="266" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-112" value="movingStartPosition（QPointF）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="300" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-113" value="isMoved（布尔类型）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="334" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-114" value="previousPolygon（QPolygonF）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="368" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-115" value="isResized（布尔类型）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="402" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-116" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="436" width="190" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-117" value="+ DiagramItem(DiagramType diagramType, QMenu *contextMenu, QGraphicsItem *parent = nullptr)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="444" width="190" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-118" value="+ removeArrow(Arrow *arrow)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="510" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-119" value="+ removeArrows()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="544" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-120" value="- addArrow(Arrow *arrow)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="578" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-121" value="- image()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="612" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-122" value="- isCloseEnough(QPointF const&amp; p1, QPointF const&amp; p2)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="646" width="190" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-123" value="- 重写的Qt事件处理方法（如mousePressEvent, mouseMoveEvent, mouseReleaseEvent等）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="690" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-124" value="+ clone()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry y="760" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MDw0kAirAG_HnYE3-cBt-59" target="MDw0kAirAG_HnYE3-cBt-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="-289" />
+              <mxPoint x="780" y="-670" />
+              <mxPoint x="1220" y="-670" />
+              <mxPoint x="1220" y="-640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-126" value="QWidget" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160" y="-950" width="160" height="216" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-127" value="Qt弹窗类型" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-126">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-128" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-126">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-129" value="- 提供可重写的Qt事件处理方法（如mousePressEvent, mouseMoveEvent, mouseReleaseEvent等）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-126">
+          <mxGeometry y="60" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-130" value="+ 提供接口获取item数据" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-126">
+          <mxGeometry y="140" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-132" value="基类" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="-950" width="160" height="216" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-134" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-132">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
