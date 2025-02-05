@@ -178,29 +178,29 @@
         <mxCell id="_B7cCc1OKouUAi9LiKXg-41" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
           <mxGeometry y="436" width="186" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="_B7cCc1OKouUAi9LiKXg-42" value="- boundingRect,paint,shape,mousePressEvent,mouseMoveEvent,mouseReleaseEvent,hoverMoveEvent" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
-          <mxGeometry y="444" width="186" height="66" as="geometry" />
+        <mxCell id="_B7cCc1OKouUAi9LiKXg-42" value=" boundingRect,paint,shape, mousePressEvent, mouseMoveEvent ,mouseReleaseEvent, hoverMoveEvent" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
+          <mxGeometry y="444" width="186" height="86" as="geometry" />
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-43" value="- int type() const" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
-          <mxGeometry y="510" width="186" height="34" as="geometry" />
+          <mxGeometry y="530" width="186" height="34" as="geometry" />
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-44" value="- QRectF boundingRect() const" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
-          <mxGeometry y="544" width="186" height="34" as="geometry" />
+          <mxGeometry y="564" width="186" height="34" as="geometry" />
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-45" value="- QPainterPath shape() const" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
-          <mxGeometry y="578" width="186" height="34" as="geometry" />
+          <mxGeometry y="598" width="186" height="34" as="geometry" />
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-46" value="- void setColor(const QColor &amp;color)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
-          <mxGeometry y="612" width="186" height="34" as="geometry" />
+          <mxGeometry y="632" width="186" height="34" as="geometry" />
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-48" value="- QColor getColor()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
-          <mxGeometry y="646" width="186" height="20" as="geometry" />
+          <mxGeometry y="666" width="186" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-49" value="- void updatePosition()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
-          <mxGeometry y="666" width="186" height="34" as="geometry" />
+          <mxGeometry y="686" width="186" height="34" as="geometry" />
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-47" value="- void paint(QPainter *painter, const QStyleOptionGraphicsItem *option, QWidget *widget = nullptr)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-28" vertex="1">
-          <mxGeometry y="700" width="186" height="70" as="geometry" />
+          <mxGeometry y="720" width="186" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_B7cCc1OKouUAi9LiKXg-52" target="_B7cCc1OKouUAi9LiKXg-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
