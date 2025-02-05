@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.8.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2505" dy="2097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3691" dy="2296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="_B7cCc1OKouUAi9LiKXg-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--0" target="_B7cCc1OKouUAi9LiKXg-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="DiagramItem" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="ZhBlock" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="224" y="-630" width="190" height="794" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -76,7 +76,7 @@
           <mxGeometry y="760" width="190" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--17" value="QGraphicsItem" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="580" y="-110" width="160" height="216" as="geometry">
+          <mxGeometry x="239" y="-930" width="160" height="216" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -111,7 +111,7 @@
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--29" value="继承" style="text;html=1;resizable=0;points=[];;align=center;verticalAlign=middle;labelBackgroundColor=none;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--26" vertex="1" connectable="0">
           <mxGeometry x="0.5" y="49" relative="1" as="geometry">
-            <mxPoint x="-38" y="40" as="offset" />
+            <mxPoint x="30" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-1" value="QGraphicsItem" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -203,6 +203,9 @@
           <mxGeometry y="700" width="186" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_B7cCc1OKouUAi9LiKXg-52" target="_B7cCc1OKouUAi9LiKXg-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_B7cCc1OKouUAi9LiKXg-52" target="_B7cCc1OKouUAi9LiKXg-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-52" value="ZhCameraHik" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -315,7 +318,7 @@
           <mxGeometry y="562" width="200" height="34" as="geometry" />
         </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-97" value="CameraMetaInfo" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-540" y="420" width="200" height="210" as="geometry">
+          <mxGeometry x="-1120" y="430" width="200" height="210" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -334,14 +337,8 @@
         <mxCell id="_B7cCc1OKouUAi9LiKXg-116" value="+bool operator==(const CameraMetaInfo&amp; info)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-97" vertex="1">
           <mxGeometry y="138" width="200" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="_B7cCc1OKouUAi9LiKXg-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="_B7cCc1OKouUAi9LiKXg-116" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-600" y="558.9473684210529" as="sourcePoint" />
-            <mxPoint x="-550" y="445" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_B7cCc1OKouUAi9LiKXg-118" value="HikCameraPlugin" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-520" y="680" width="200" height="210" as="geometry">
+          <mxGeometry x="-813.5" y="970" width="200" height="210" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -351,139 +348,355 @@
         <mxCell id="_B7cCc1OKouUAi9LiKXg-120" value="+enumCamera(std::vector &lt;CameraMetaInfo&gt;&amp; cameraInfos)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;whiteSpace=wrap;" parent="_B7cCc1OKouUAi9LiKXg-118" vertex="1">
           <mxGeometry y="34" width="200" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="_B7cCc1OKouUAi9LiKXg-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.994;exitY=1.162;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_B7cCc1OKouUAi9LiKXg-72" target="_B7cCc1OKouUAi9LiKXg-118" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-517.0000000000002" y="817.366" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NFf6Az_FwW0uLxMFkGdc-0" target="NFf6Az_FwW0uLxMFkGdc-25">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NFf6Az_FwW0uLxMFkGdc-0" target="NFf6Az_FwW0uLxMFkGdc-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-0" value="ZhProcessEditingArea" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-0" value="ZhProcessEditingArea" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-95" y="-630" width="220" height="1364" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-1" value="&amp; blockSelect(int id) 模块选中信号" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-1" value="&amp; blockSelect(int id) 模块选中信号" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="26" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-2" value="&amp; blockRunFinished 模块运行完成信号" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-2" value="&amp; blockRunFinished 模块运行完成信号" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="60" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-3" value="&amp; ongroupRequested 双击group组信号" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-3" value="&amp; ongroupRequested 双击group组信号" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="86" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-4" value="&amp; runFinished(int finishedId,long nState)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-4" value="&amp; runFinished(int finishedId,long nState)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="120" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-5" value="&amp; needsBackup 备份信号" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-5" value="&amp; needsBackup 备份信号" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="154" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-6" value="&amp; redoRequested redo请求" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-6" value="&amp; redoRequested redo请求" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="188" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-7" value="&amp; undoRequested undo请求" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-7" value="&amp; undoRequested undo请求" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="222" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-8" value="&amp; deleteRequested delete请求" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-8" value="&amp; deleteRequested delete请求" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="256" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-9" value="&amp; dragMove(QDragMoveEvent *event)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-9" value="&amp; dragMove(QDragMoveEvent *event)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="290" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-10" value="&amp; dragEnd(QDropEvent *event)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-10" value="&amp; dragEnd(QDropEvent *event)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="324" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-11" value="&amp; updateTabPageRequested()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-11" value="&amp; updateTabPageRequested()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="358" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-12" value="&amp; void groupPastedRequest(const QList&lt;FollowData&gt;&amp; followDataList)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-12" value="&amp; void groupPastedRequest(const QList&lt;FollowData&gt;&amp; followDataList)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="392" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-31" value=" + QMap&lt;int, ZhBlock*&gt; m_blockMap 模块图元集合" style="text;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-31" value=" + QMap&lt;int, ZhBlock*&gt; m_blockMap 模块图元集合" style="text;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="426" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-32" value=" + nRunMode 运行模式：0 停止，1 单次执行，2 连续执行" style="text;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-32" value=" + nRunMode 运行模式：0 停止，1 单次执行，2 连续执行" style="text;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="466" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-33" value=" + QVector&lt;int&gt; m_follow 流程开始模块的下游直连模块id集合" style="text;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-33" value=" + QVector&lt;int&gt; m_follow 流程开始模块的下游直连模块id集合" style="text;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="506" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-34" value=" - ZhProcessEditingScene *m_scene" style="text;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-34" value=" - ZhProcessEditingScene *m_scene" style="text;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="546" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-35" value=" - QPoint m_Point1, m_Point2 连接线的两点坐标" style="text;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-35" value=" - QPoint m_Point1, m_Point2 连接线的两点坐标" style="text;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="586" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-36" value=" - int m_linkId 连接线的起始模块Id" style="text;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-36" value=" - int m_linkId 连接线的起始模块Id" style="text;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="626" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-37" value=" - int m_linkSide 连接线在起始模块的边：0 左边；1 右边；2 上边；3 下边&#xa;" style="text;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-37" value=" - int m_linkSide 连接线在起始模块的边：0 左边；1 右边；2 上边；3 下边&#xa;" style="text;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="666" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-38" value=" - QMenu *itemMenu" style="text;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-38" value=" - QMenu *itemMenu" style="text;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="706" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-39" value=" - isVirtual 是否为group内部" style="text;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-39" value=" - isVirtual 是否为group内部" style="text;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="746" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-40" value=" - ZhBlock* last_block = nullptr" style="text;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-40" value=" - ZhBlock* last_block = nullptr" style="text;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="786" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-13" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-13" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="826" width="220" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-14" value="+ QVector&lt;int&gt;&amp; getFollow() 获取下游直连模块id集合的方法" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-14" value="+ QVector&lt;int&gt;&amp; getFollow() 获取下游直连模块id集合的方法" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="834" width="220" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-15" value="+ removeArrow(Arrow *arrow)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-15" value="+ removeArrow(Arrow *arrow)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="890" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-16" value="+ removeArrows()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-16" value="+ removeArrows()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="924" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-18" value="+ addLink(int id1, int id2, int nSide1, QPointF p1, int nSide2, QPointF p2)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-18" value="+ addLink(int id1, int id2, int nSide1, QPointF p1, int nSide2, QPointF p2)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="958" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-19" value="- isCloseEnough(QPointF const&amp; p1, QPointF const&amp; p2)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-19" value="- isCloseEnough(QPointF const&amp; p1, QPointF const&amp; p2)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="992" width="220" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-20" value="- 重写的Qt事件处理方法（如dragEnterEvent，dragMoveEvent，dropEvent，mouseMoveEvent，mouseReleaseEvent，keyPressEvent，paintEvent，drawBackground）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-20" value="- 重写的Qt事件处理方法（如dragEnterEvent，dragMoveEvent，dropEvent，mouseMoveEvent，mouseReleaseEvent，keyPressEvent，paintEvent，drawBackground）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="1036" width="220" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-21" value="+ AddAutoBlockLink()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-21" value="+ AddAutoBlockLink()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="1140" width="220" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-41" value=" - void connectBlocks(ZhBlock* fromBlock, ZhBlock* toBlock)" style="text;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-41" value=" - void connectBlocks(ZhBlock* fromBlock, ZhBlock* toBlock)" style="text;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="1174" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-17" value="+ AddLinkBetweenBlocks(int startBlockId, int endBlockId, int startSide, int endSide, QPointF startPoint, QPointF endPoint)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-17" value="+ AddLinkBetweenBlocks(int startBlockId, int endBlockId, int startSide, int endSide, QPointF startPoint, QPointF endPoint)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="1214" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-42" value="  + AddUndoBlock(int blockId, qlonglong x, qlonglong y)" style="text;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-42" value="  + AddUndoBlock(int blockId, qlonglong x, qlonglong y)" style="text;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="1284" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-43" value=" - handleAutoLinkBlocks(ZhBlock* belowBlock, ZhBlock* placedBlock)" style="text;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-0">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-43" value=" - handleAutoLinkBlocks(ZhBlock* belowBlock, ZhBlock* placedBlock)" style="text;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-0" vertex="1">
           <mxGeometry y="1324" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NFf6Az_FwW0uLxMFkGdc-11" target="e8jSrANbyITBLbafCUE--8">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NFf6Az_FwW0uLxMFkGdc-11" target="e8jSrANbyITBLbafCUE--8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-25" value="QGraphicsView" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-25" value="QGraphicsView" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-65" y="-930" width="160" height="216" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-26" value="Qt画布qview类型" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-25">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-26" value="Qt画布qview类型" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="NFf6Az_FwW0uLxMFkGdc-25" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-27" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-25">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-27" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="NFf6Az_FwW0uLxMFkGdc-25" vertex="1">
           <mxGeometry y="52" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-28" value="- 提供可重写的Qt事件处理方法（如mousePressEvent, mouseMoveEvent, mouseReleaseEvent等）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-25">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-28" value="- 提供可重写的Qt事件处理方法（如mousePressEvent, mouseMoveEvent, mouseReleaseEvent等）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-25" vertex="1">
           <mxGeometry y="60" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NFf6Az_FwW0uLxMFkGdc-29" value="+ 提供接口获取画布数据" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="NFf6Az_FwW0uLxMFkGdc-25">
+        <mxCell id="NFf6Az_FwW0uLxMFkGdc-29" value="+ 提供接口获取画布数据" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" parent="NFf6Az_FwW0uLxMFkGdc-25" vertex="1">
+          <mxGeometry y="140" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MDw0kAirAG_HnYE3-cBt-0" target="MDw0kAirAG_HnYE3-cBt-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-0" value="ZhProcessEditingScene" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-370" y="-630" width="230" height="1364" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-1" value="&amp; blockSelect(int id) 模块选中信号" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="26" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-2" value="&amp; blockRunFinished 模块运行完成信号" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="60" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-3" value="&amp; ongroupRequested 双击group组信号" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="86" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-4" value="&amp; runFinished(int finishedId,long nState)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="120" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-5" value="&amp; needsBackup 备份信号" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="154" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-6" value="&amp; redoRequested redo请求" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="188" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-7" value="&amp; undoRequested undo请求" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="222" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-8" value="&amp; deleteRequested delete请求" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="256" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-9" value="&amp; dragMove(QDragMoveEvent *event)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="290" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-10" value="&amp; dragEnd(QDropEvent *event)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="324" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-11" value="&amp; updateTabPageRequested()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="358" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-12" value="&amp; void groupPastedRequest(const QList&lt;FollowData&gt;&amp; followDataList)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="392" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-13" value=" + QMap&lt;int, ZhBlock*&gt; m_blockMap 模块图元集合" style="text;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="426" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-14" value=" + nRunMode 运行模式：0 停止，1 单次执行，2 连续执行" style="text;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="466" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-15" value=" + QVector&lt;int&gt; m_follow 流程开始模块的下游直连模块id集合" style="text;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="506" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-16" value=" - ZhProcessEditingScene *m_scene" style="text;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="546" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-17" value=" - QPoint m_Point1, m_Point2 连接线的两点坐标" style="text;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="586" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-18" value=" - int m_linkId 连接线的起始模块Id" style="text;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="626" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-19" value=" - int m_linkSide 连接线在起始模块的边：0 左边；1 右边；2 上边；3 下边&#xa;" style="text;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="666" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-20" value=" - QMenu *itemMenu" style="text;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="706" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-21" value=" - isVirtual 是否为group内部" style="text;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="746" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-22" value=" - ZhBlock* last_block = nullptr" style="text;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="786" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-23" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="826" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-24" value="+ QVector&lt;int&gt;&amp; getFollow() 获取下游直连模块id集合的方法" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="834" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-25" value="+ removeArrow(Arrow *arrow)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="884" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-26" value="+ removeArrows()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="918" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-27" value="+ addLink(int id1, int id2, int nSide1, QPointF p1, int nSide2, QPointF p2)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="952" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-28" value="- isCloseEnough(QPointF const&amp; p1, QPointF const&amp; p2)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="986" width="230" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-29" value="- 重写的Qt事件处理方法（如dragEnterEvent，dragMoveEvent，dropEvent，mouseMoveEvent，mouseReleaseEvent，keyPressEvent，paintEvent，drawBackground）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="1030" width="230" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-30" value="+ AddAutoBlockLink()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="1134" width="230" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-31" value=" - void connectBlocks(ZhBlock* fromBlock, ZhBlock* toBlock)" style="text;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="1168" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-32" value="+ AddLinkBetweenBlocks(int startBlockId, int endBlockId, int startSide, int endSide, QPointF startPoint, QPointF endPoint)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="1208" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-33" value="  + AddUndoBlock(int blockId, qlonglong x, qlonglong y)" style="text;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="1278" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-34" value=" - handleAutoLinkBlocks(ZhBlock* belowBlock, ZhBlock* placedBlock)" style="text;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-0">
+          <mxGeometry y="1318" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-35" value="QGraphicsScene" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-335" y="-930" width="160" height="216" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-36" value="Qt画布qview类型" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-35">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-37" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-35">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-38" value="- 提供可重写的Qt事件处理方法（如mousePressEvent, mouseMoveEvent, mouseReleaseEvent等）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-35">
+          <mxGeometry y="60" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-39" value="+ 提供接口获取画布数据" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-35">
+          <mxGeometry y="140" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_B7cCc1OKouUAi9LiKXg-66" target="_B7cCc1OKouUAi9LiKXg-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MDw0kAirAG_HnYE3-cBt-21" target="NFf6Az_FwW0uLxMFkGdc-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-49" value="BaseEditDialog" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="-624" width="190" height="794" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-50" value="myDiagramType（枚举类型DiagramType）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="26" width="190" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-51" value="myPolygon（QPolygonF）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="70" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-52" value="myContextMenu（QMenu*）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="96" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-53" value="arrows（QList&lt;Arrow*&gt;）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="130" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-54" value="resizeHandlePointWidth（静态常量，qreal）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="164" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-55" value="closeEnoughDistance（静态常量，qreal）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="198" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-56" value="resizeMode（布尔类型）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="232" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-57" value="scaleDirection（枚举类型Direction）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="266" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-58" value="movingStartPosition（QPointF）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="300" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-59" value="isMoved（布尔类型）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="334" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-60" value="previousPolygon（QPolygonF）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="368" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-61" value="isResized（布尔类型）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="402" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-62" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="436" width="190" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-63" value="+ DiagramItem(DiagramType diagramType, QMenu *contextMenu, QGraphicsItem *parent = nullptr)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="444" width="190" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-64" value="+ removeArrow(Arrow *arrow)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="510" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-65" value="+ removeArrows()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="544" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-66" value="- addArrow(Arrow *arrow)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="578" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-67" value="- image()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="612" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-68" value="- isCloseEnough(QPointF const&amp; p1, QPointF const&amp; p2)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="646" width="190" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-69" value="- 重写的Qt事件处理方法（如mousePressEvent, mouseMoveEvent, mouseReleaseEvent等）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="690" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-70" value="+ clone()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-49">
+          <mxGeometry y="760" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e8jSrANbyITBLbafCUE--6" target="MDw0kAirAG_HnYE3-cBt-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-72" value="QDialog" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="545" y="-940" width="160" height="216" as="geometry">
+            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-73" value="Qt弹窗类型" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-72">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-74" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-72">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-75" value="- 提供可重写的Qt事件处理方法（如mousePressEvent, mouseMoveEvent, mouseReleaseEvent等）" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-72">
+          <mxGeometry y="60" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MDw0kAirAG_HnYE3-cBt-76" value="+ 提供接口获取item数据" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;whiteSpace=wrap;" vertex="1" parent="MDw0kAirAG_HnYE3-cBt-72">
           <mxGeometry y="140" width="160" height="34" as="geometry" />
         </mxCell>
       </root>
